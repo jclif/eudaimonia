@@ -13,6 +13,6 @@ Setting up Development Environment
 
 Common Commands
 ---------------
-:set paste
-:w
-insert mode at beginning of line
+* _ :set paste
+* _ :w
+* _ insert mode at beginning of line
