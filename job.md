@@ -8,10 +8,10 @@ SO MUCH TO DO, SO LITTLE TIME
 EVERY DAY
 ---------
 * twitter post
-* daily post-course stuff
+* daily post-course
 * interview question practice
 * one good way to improve my applications (improve resume/cover letter, augment email, etc)
-* simon's progress form
+* progress form
 * 30 applications
 * delete/aggregate 5 github projects until only essentials
 * clean up 3 github projects (readme, comments, etc)
@@ -23,7 +23,8 @@ Personal Website
 
 Final Project
 -------------
-* [x] finish guest account
+* x mvp
+* x finish guest account
 * x omniauth
 * [x] add/accept games/friendships
 * [x] chat
@@ -33,7 +34,6 @@ Tumblr
 ----------
 * _ mvp
 * _ clear up list posts
-* _ make post about setting up soundcloud api
 
 Resume/Cover Letter
 -------------------
