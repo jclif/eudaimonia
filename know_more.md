@@ -1,9 +1,8 @@
-Since: 6/26/12
->The only good is knowledge, and the only evil is ignorance.
+The only good is knowledge, and the only evil is ignorance.
 
-#Short Stories:
+##Short Stories:
 
-##Finished
+###Finished
 1. Miss Temptation, by Kurt Vonnegut
 2. A Hunger Artist, by Franz Kafka
 3. Signs and Symbols By Vladimir Nabokov
@@ -22,9 +21,9 @@ Since: 6/26/12
 16. The Happy Prince By Oscar Wilde
 17. The Little Mermaid By Hans Christian Andersen
 
-#Novels
+##Novels
 
-##Finished
+###Finished
 1. Lolita By Vladimir Nabokov
 2. The Trial By Franz Kafka
 3. Six Easy Pieces By Richard P. Feynman
@@ -34,13 +33,13 @@ Since: 6/26/12
 7. Candide By Voltaire
 8. Ender's Game By Orson Scott Card
 
-##Hiatus
+###Hiatus
 1. Six Not-so-Easy Pieces By Richard P. Feynman
 
-##Currently Reading
+###Currently Reading
 1. Dubliners By James Joyce
 
-##To-read:
+###To-read:
 include ["100 Great Nonfiction Books"](http://tetw.org/Books)
 
 queue cut -> The Lord of the Rings series By J.R.R. Tolkien (reread)
@@ -138,17 +137,17 @@ queue cut ->Tropic of Cancer By Henry Miller
 * The Naked Lunch By William Burroughs
 * Lady Chatterley’s Lover By D.H. Lawrence
 
-##Recommended Authors
+###Recommended Authors
 * Jonathon Franzen
 * JM Cutzy
 
-#Essays and Collections
+##Essays and Collections
 
-##Finished
+###Finished
 1. Politics and the English Language By George Orwell
 2. Words By Tony Judt
 
-##To-read
+###To-read
 include ["150 Great Articles and Essays"](http://tetw.org/Greats)
 
 * The Common Reader By Virginia Woolf
@@ -159,20 +158,20 @@ include ["150 Great Articles and Essays"](http://tetw.org/Greats)
 * Against Joie de Vivre By Phillip Lopate
 * Sex and the River Styx By Edward Hoagland
 
-#Documentaries
+##Documentaries
 
-##To-watch
+###To-watch
 include ["40 Great Documentaries"](http://tetw.org/Documentaries)
 
-#Movies
+##Movies
 
-##Finished
+###Finished
 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 2. Seventh Seal
 3. Moon
 4. I Heart Huckabees
 
-##To-watch
+###To-watch
 * Memento
 * The Mission
 * Pan’s Labyrinth
@@ -214,3 +213,5 @@ include ["40 Great Documentaries"](http://tetw.org/Documentaries)
 * A Clockwork Orange
 * Lolita
 * 2001: A Space Odyssey
+
+Since: 6/26/12

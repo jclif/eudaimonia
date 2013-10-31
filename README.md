@@ -1,5 +1,6 @@
-#Eudaimonia
-SO MUCH TO DO, SO LITTLE TIME
+##Eudaimonia
+
+###SO MUCH TO DO, SO LITTLE TIME
 *  x  : complete
 *  _  : imcomplete
 * [x] : in progress
