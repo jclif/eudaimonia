@@ -7,19 +7,26 @@ SO MUCH TO DO, SO LITTLE TIME
 ##Daily
 * [Job](#job)
 * [Code](#code-less-bad)
+* [Write](#writing)
 * stretch
 * run/gym
 
-##A. <a name="job"></a>GET A JOB YA BUM
-include ("job.md")[https://github.com/jclif/eudaimonia/job.md]
+##Weekly
+* _ volunteer/mentor opportunities
 
-##B. <a name="code-less-bad"></a>CODE LESS BAD
-include ("vim.md")[https://github.com/jclif/eudaimonia/vim.md]
-include ("Top Coder Algorithm Tutorials")[http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static]
+##<a name="job"></a>GET A JOB YA BUM
+include ["job.md"](https://github.com/jclif/eudaimonia/job.md)
 
-##C. AD GANGA MED BOK I MAGANUM
+##<a name="code-less-bad"></a>Code less bad
+include ["vim.md"](https://github.com/jclif/eudaimonia/vim.md)
+include ["Top Coder Algorithm Tutorials"](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
+
+##<a name="writing"></a>Ad ganga med bok I maganum
 * _ Expansion: Ch 3
 * _ Final Draft
 
-##D. THE ONLY GOOD IS KNOWLEDGE, THE ONLY EVIL IGNORANCE.
+##The only good is knowledge, the only evil ignorance.
 include [reading_list.md](https://github.com/jclif/eudaimonia/reading_list.md)
+
+##Bucket List
+include [bucket_list.md](https://github.com/jclif/eudaimonia/reading_list.md)

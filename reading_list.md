@@ -40,7 +40,7 @@ Since: 6/26/12
 1. Dubliners By James Joyce
 
 ##To-read:
-include ("100 Great Nonfiction Books")[http://tetw.org/Books]
+include ["100 Great Nonfiction Books"](http://tetw.org/Books)
 
 queue cut -> The Lord of the Rings series By J.R.R. Tolkien (reread)
 queue cut -> From Socrates to Sartre By T.Z. Lavine
@@ -148,7 +148,7 @@ queue cut ->Tropic of Cancer By Henry Miller
 2. Words By Tony Judt
 
 ##To-read
-include ("150 Great Articles and Essays")[http://tetw.org/Greats]
+include ["150 Great Articles and Essays"](http://tetw.org/Greats)
 
 * The Common Reader By Virginia Woolf
 * Teaching a Stone to Talk Annie Dillard
@@ -161,7 +161,7 @@ include ("150 Great Articles and Essays")[http://tetw.org/Greats]
 #Documentaries
 
 ##To-watch
-include ("40 Great Documentaries")[http://tetw.org/Documentaries]
+include ["40 Great Documentaries"](http://tetw.org/Documentaries)
 
 #Movies
 
