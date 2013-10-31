@@ -42,10 +42,11 @@ The only good is knowledge, and the only evil is ignorance.
 ###To-read:
 include ["100 Great Nonfiction Books"](http://tetw.org/Books)
 
-queue cut -> The Lord of the Rings series By J.R.R. Tolkien (reread)
-queue cut -> From Socrates to Sartre By T.Z. Lavine
-queue cut -> Brave New World By Aldus Huxley
-queue cut ->Tropic of Cancer By Henry Miller
+* queue cut -> The Lord of the Rings series By J.R.R. Tolkien (reread)
+* queue cut -> From Socrates to Sartre By T.Z. Lavine
+* queue cut -> Brave New World By Aldus Huxley
+* queue cut ->Tropic of Cancer By Henry Miller
+
 * The Education of Henry Adams By Henry Adams (!!!)
 * The Story of Philosophy By Will Durant
 * Godel, Escher, Bach (Introduction-Ch.4) By Douglas R. Hofstadter
