@@ -147,7 +147,7 @@ The only good is knowledge, and the only evil is ignorance.
 2. Words By Tony Judt
 
 ###To-read
-*include ["150 Great Articles and Essays"](http://tetw.org/Greats)
+* include ["150 Great Articles and Essays"](http://tetw.org/Greats)
 * The Common Reader By Virginia Woolf
 * Teaching a Stone to Talk Annie Dillard
 * Art and Ardor By Cynthia Ozick
@@ -159,7 +159,7 @@ The only good is knowledge, and the only evil is ignorance.
 ##Documentaries
 
 ###To-watch
-*include ["40 Great Documentaries"](http://tetw.org/Documentaries)
+* include ["40 Great Documentaries"](http://tetw.org/Documentaries)
 
 ##Movies
 
