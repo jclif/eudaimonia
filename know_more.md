@@ -1,4 +1,5 @@
 Since: 6/26/12
+>The only good is knowledge, and the only evil is ignorance.
 
 #Short Stories:
 
