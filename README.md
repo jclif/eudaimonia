@@ -12,10 +12,10 @@ SO MUCH TO DO, SO LITTLE TIME
 * run/gym
 
 ##Weekly
-* _ volunteer/mentor opportunities
+* volunteer/mentor opportunities
 
 ##<a name="job"></a>GET A JOB YA BUM
-include ["job.md"](https://github.com/jclif/eudaimonia/blob/job.md)
+include ["job.md"](https://github.com/jclif/eudaimonia/blob/master/job.md)
 
 ##<a name="code-less-bad"></a>Code less bad
 include ["vim.md"](https://github.com/jclif/eudaimonia/blob/master/vim.md)
