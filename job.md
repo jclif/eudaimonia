@@ -28,7 +28,9 @@ Final Project
 * x omniauth
 * [x] add/accept games/friendships
 * [x] chat
-* _ move logic
+* [x] perfect move logic
+* [x] unit/integreation tests
+* [x] jasmine
 
 Tumblr
 ----------
