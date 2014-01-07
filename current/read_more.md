@@ -1,5 +1,3 @@
-The only good is knowledge, and the only evil is ignorance.
-
 ##Short Stories:
 
 ###Finished
@@ -38,6 +36,7 @@ The only good is knowledge, and the only evil is ignorance.
 
 ###Currently Reading
 1. Dubliners By James Joyce
+2. Modern Mind By Peter Watson
 
 ###To-read:
 * include ["100 Great Nonfiction Books"](http://tetw.org/Books)
@@ -160,6 +159,12 @@ The only good is knowledge, and the only evil is ignorance.
 
 ###To-watch
 * include ["40 Great Documentaries"](http://tetw.org/Documentaries)
+* The Act of Killing
+* Man on Wire
+* Hearts of Darkness: A Filmmaker's Apocalypse
+* Last Train Home
+* We Were Here
+* God Loves Uganda
 
 ##Movies
 

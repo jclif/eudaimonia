@@ -11,8 +11,9 @@ Setting up Development Environment
 * _ configure (non-copycat) vim folders and .vimrc files for mac and linux
 * _ set up unobtrusive (keeps track of old dotfiles and reconfigures them on uninstall) dotfiles installer for mac and linux
 
+
 Common Commands
 ---------------
-* _ :set paste
+* x :set paste
+* x insert mode at beginning of line
 * _ :w
-* _ insert mode at beginning of line
