@@ -37,4 +37,4 @@
 
 ###Lifely
 
-* [x] include [bucket_list.md](https://github.com/jclif/eudaimonia/blob/master/current/bucket_list.md)
+* include [bucket_list.md](https://github.com/jclif/eudaimonia/blob/master/current/bucket_list.md)
