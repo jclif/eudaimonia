@@ -169,13 +169,14 @@
 ##Movies
 
 ###Finished
-1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-2. Seventh Seal
-3. Moon
-4. I Heart Huckabees
+1. Kill Bill Vol. 1
+2. Kill Bill Vol. 2
 
 ###To-watch
-* Memento
+* Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (rewatch)
+* Seventh Seal (rewatch)
+* Moon (rewatch)
+* Memento (rewatch)
 * The Mission
 * Pan’s Labyrinth
 * Burn After Reading
