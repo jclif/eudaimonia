@@ -22,7 +22,6 @@
 * _ start a company
 
 ###Learn to Language
-
 * [x] English (nice)
 * [x] Japanese
 * [x] French
