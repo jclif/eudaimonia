@@ -1,10 +1,21 @@
-VIM-TODO
-========
+VODE-LESS-BAD-TODO
+==================
 
 SO MUCH TO DO, SO LITTLE TIME
 *  x  : complete
 *  _  : imcomplete
 * [x] : in progress
+
+Tmux
+====
+
+Startup
+-------
+* _ for tmuxinator yaml, set up mailcatcher to start, and to open a tab in chrome at 1080
+* _ ensure that there are no instances of rails s already running
+
+Vim
+===
 
 Setting up Development Environment
 ----------------------------------

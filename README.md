@@ -16,7 +16,7 @@
 ####Code less bad
 <a name="code-less-bad"></a>
 
-* [x] include [vim.md](https://github.com/jclif/eudaimonia/blob/master/vim.md)
+* [x] include [code_less_bad.md](https://github.com/jclif/eudaimonia/blob/master/code_less_bad.md)
 * _ include ["Top Coder Algorithm Tutorials"](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
 
 #####Ad ganga med bok I maganum
