@@ -28,3 +28,5 @@ Common Commands
 * x :set paste
 * x insert mode at beginning of line
 * _ :w
+* grep from vim
+* global changes
