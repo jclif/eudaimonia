@@ -30,9 +30,14 @@
 
 * [x] include [know_more.md](https://github.com/jclif/eudaimonia/blob/master/current/read_more.md)
 
+#####Aquire culture
+<a name="culture"></a>
+
+* [x] include [cult_more.md](https://github.com/jclif/eudaimonia/blob/master/current/cult_more.md)
+
 ###Weekly
 * volunteer/mentor opportunities
-* get groceries
+* get fresh foods
 * clean all the things!
 
 ###Lifely

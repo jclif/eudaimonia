@@ -14,9 +14,9 @@
 
 ###Settle Down
 * _ aquire house
-* _ build a (legit) library
+* [x] build a (legit) library
 * _ be a hubby
-* _ be a daddy
+* _ be a dad
 
 ###Do Binis
 * _ start a company
