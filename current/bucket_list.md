@@ -19,7 +19,7 @@
 * _ be a dad
 
 ###Do Binis
-* _ start a company
+* _ start a binis
 
 ###Learn to Language
 * [x] English (nice)

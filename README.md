@@ -8,7 +8,9 @@
 ###Daily
 * [code](#code-less-bad)
 * [write](#writing)
+* [cult](#culture)
 * [read](#reading)
+* [learn](#learn)
 * stretch
 * run/gym
 * eat well
@@ -25,15 +27,20 @@
 * _ expansion: Ch 3
 * _ finish final draft
 
-#####Aquire knowledge
+#####Aquire bookage
 <a name="reading"></a>
 
-* [x] include [know_more.md](https://github.com/jclif/eudaimonia/blob/master/current/read_more.md)
+* [x] include [read_more.md](https://github.com/jclif/eudaimonia/blob/master/current/read_more.md)
 
 #####Aquire culture
 <a name="culture"></a>
 
 * [x] include [cult_more.md](https://github.com/jclif/eudaimonia/blob/master/current/cult_more.md)
+
+#####Aquire knowledge
+<a name="learn"></a>
+
+* [x] include [know_more.md](https://github.com/jclif/eudaimonia/blob/master/current/cult_more.md)
 
 ###Weekly
 * volunteer/mentor opportunities
