@@ -37,6 +37,7 @@
 ###Currently Reading
 1. Dubliners By James Joyce
 2. Modern Mind By Peter Watson
+3. Nomad By Ayaan Hirsi Ali
 
 ###To-read:
 * include ["100 Great Nonfiction Books"](http://tetw.org/Books)
