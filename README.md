@@ -1,9 +1,8 @@
 ##Eudaimonia
 
-
 ###SO MUCH TO DO, SO LITTLE TIME
 *  x  : complete
-*  _  : imcomplete
+*  _  : incomplete
 * {x} : in progress
 
 ###Daily
@@ -13,9 +12,9 @@
 * [listen](#listen)
 * [watch](#movies)
 * [code](#code-less-bad)
-* stretch
-* run/gym
+* stretch/run/gym
 * eat well
+* whittle todo list
 
 #####Aquire knowledge
 <a name="learn"></a>
