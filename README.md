@@ -2,9 +2,9 @@
 
 
 ###SO MUCH TO DO, SO LITTLE TIME
-*  [x]  : complete
-*  [ ]  : imcomplete
-* * : in progress
+*  x  : complete
+*  _  : imcomplete
+* <x> : in progress
 
 ###Daily
 * [code](#code-less-bad)
