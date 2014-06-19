@@ -1,11 +1,6 @@
 VODE-LESS-BAD-TODO
 ==================
 
-SO MUCH TO DO, SO LITTLE TIME
-*  x  : complete
-*  _  : imcomplete
-* [x] : in progress
-
 Application Architecure
 ======================
 

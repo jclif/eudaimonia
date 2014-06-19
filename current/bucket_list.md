@@ -1,12 +1,7 @@
 ##Bucket List
 
-###SO MUCH TO DO, SO LITTLE TIME
-*  x  : complete
-*  _  : imcomplete
-* [x] : in progress
-
 ###Travel
-* [x] United States (nice)
+* {x} United States (nice)
 * x Taiwan
 * _ France
 * _ Japan
@@ -14,7 +9,7 @@
 
 ###Settle Down
 * _ aquire house
-* [x] build a (legit) library
+* {x} build a (legit) library
 * _ be a hubby
 * _ be a dad
 
@@ -22,7 +17,7 @@
 * _ start a binis
 
 ###Learn to Language
-* [x] English (nice)
-* [x] Japanese
-* [x] French
+* {x} English (nice)
+* {x} Japanese
+* {x} French
 * _ Chinese
