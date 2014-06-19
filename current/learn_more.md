@@ -88,7 +88,7 @@
 * _ Serbia & Montenegro
 * _ Belarus
 * _ Sweden
-* _ Somalia
+* x Somalia
 * _ Benin
 * _ Azerbaijan
 * _ Burundi
