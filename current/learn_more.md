@@ -1,7 +1,7 @@
 ##ThE wOrLd
 
 ###Read the wiki page on every country, and memorize its capital/geology (ranked by pop.)
-* _ China
+* {x} China
 * _ India
 * _ United States of America
 * _ Indonesia
