@@ -32,3 +32,4 @@ Common Commands
 * _ :w
 * grep from vim
 * global changes
+* When editing backbone file, configure hotkey to access all values of template keypairs and display in another window. on selection, open file in buffer
