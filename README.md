@@ -57,3 +57,4 @@
 
 ###Lifely
 * include [bucket_list.md](https://github.com/jclif/eudaimonia/blob/master/current/bucket_list.md)
+* interview grandparents about life/history
