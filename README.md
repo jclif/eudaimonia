@@ -12,6 +12,7 @@
 * [listen](#listen)
 * [watch](#movies)
 * [code](#code-less-bad)
+* [level up](#level-up)
 * stretch/run/gym
 * eat well
 * whittle todo list
@@ -49,6 +50,12 @@
 * {x} sideproject: [chessnuts](https://gitbub.com/jclif/chessnuts)
 * {x} include [code_less_bad.md](https://github.com/jclif/eudaimonia/blob/master/code_less_bad.md)
 * {x} include ["Top Coder Algorithm Tutorials"](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
+
+#####Level Up
+<a name="level-up"></a>
+
+* {x} include [level_up.md](https://github.com/jclif/eudaimonia/blob/master/current/level_up.md)
+
 
 ###Weekly
 * volunteer/mentor opportunities
